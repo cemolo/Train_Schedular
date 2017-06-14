@@ -1,0 +1,10 @@
+.label, label {
+	margin-top: 10px;
+	margin-bottom: 0px;
+	color: black;
+}
+
+#submit {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
